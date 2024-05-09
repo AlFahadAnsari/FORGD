@@ -34,7 +34,7 @@ const Template = () => {
 
 
             <div class="text-center mt-20 md:mt-0">
-                <Link to={'/signup'} className="btn btn-active bg-black text-white outline-none border-none rounded-full">Sign up free</Link>
+                <Link to={'/signup'} className="btn btn-active bg-black mt-5 md:mt-0 text-white outline-none border-none rounded-full">Sign up free</Link>
             </div>
 
 
