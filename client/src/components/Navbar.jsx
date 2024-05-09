@@ -24,7 +24,7 @@ const Navbar = () => {
                     </div>
 
                     {/* title */}
-                    <a className="btn btn-ghost text-2xl font-bol font-semibold hidden md:block md:mt-4 "><span className='mx-2 text-black'><i className="fa-brands fa-algolia fa-flip-vertical"></i></span>Alfahad</a>
+                    <Link to={'/'} className="btn btn-ghost text-2xl font-bol font-semibold hidden md:block md:mt-4 "><span className='mx-2 text-black'><i className="fa-brands fa-algolia fa-flip-vertical"></i></span>Alfahad</Link>
 
 
                     {/* navbar list */}
