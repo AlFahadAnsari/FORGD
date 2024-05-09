@@ -18,7 +18,7 @@ const DetailsPart = () => {
 
                     {/*   second section */}
 
-                    <div className=' mx-14'>
+                    <div className=' mx-2 md:mx-14'>
 
                         <button className="btn btn-outline btn-white my-5 text-info rounded-lg">Schedule a consultation</button>
 
